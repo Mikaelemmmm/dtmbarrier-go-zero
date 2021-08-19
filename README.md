@@ -2,7 +2,12 @@
 
 在go-zero中使用分布式事务[dtm](https://github.com/yedf/dtm)时候，使用它的子事务屏蔽功能，发现必须要暴露出sql.DB，但是go-zero封装在底层无法拿到sql.DB，这里基于go-zero的sqlx，修改了下，可以使用go-zero的sqlx来替代dtmcli的barrier中的sql.DB
 
-#### http使用示例
+
+
+- #### http使用示例
+
+
+
 
 调用 http://127.0.0.1:8001/order/quickOrder 
 
@@ -79,10 +84,10 @@ func (m defaultBarrierModel) GetDBConn() sqlx.SqlConn {
 
 
 
-#### grpc使用示例
+- #### grpc使用示例
 
 
-    后续更新....
+ 后续更新....
 
 
 
