@@ -1,0 +1,31 @@
+type Request {
+	Name string `path:"name,options=you|me"`
+}
+
+type Response {
+	Message string `json:"message"`
+}
+
+type CreateOrderRequest {
+	UserId  int64 `json:"user_id"`
+	GoodsId int64 `json:"goods_id"`
+	Num     int64 `json:"num"`
+}
+
+type CreateOrderResponse {
+	OrderId int64 `json:"order_id"`
+}
+
+service order-api {
+	@handler OrderHandler
+	get /from/:name(Request) returns (Response);
+	
+	@handler CreateOrder
+	post /order/createOrderRequest(CreateOrderRequest) returns (CreateOrderResponse)
+	
+	@handler CreateOrderCancel
+	post /order/cancelOrderRequest(CreateOrderRequest) returns (CreateOrderResponse)
+	
+	@handler QuickOrder
+	post /order/quickOrder(CreateOrderRequest) returns (CreateOrderResponse)
+}

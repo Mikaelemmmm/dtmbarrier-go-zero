@@ -1,0 +1,7 @@
+Name: stock-api
+Host: 0.0.0.0
+Port: 8002
+
+DataSource: root:@tcp(127.0.0.1:3306)/dtmtwo?charset=utf8mb4&parseTime=True&loc=Local
+
+BarrierDataSource: root:@tcp(127.0.0.1:3306)/dtm_barrier?charset=utf8mb4&parseTime=True&loc=Local

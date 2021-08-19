@@ -1,0 +1,26 @@
+type Request {
+	Name string `path:"name,options=you|me"`
+}
+
+type Response {
+	Message string `json:"message"`
+}
+
+type DeductRequest {
+	GoodsId int64 `json:"goods_id"`
+	Num     int64 `json:"num"`
+}
+type DeductResponse {
+	GoodsId int64 `json:"goods_id"`
+}
+
+service stock-api {
+	@handler StockHandler
+	get /from/:name (Request) returns (Response);
+	
+	@handler StockDeductHandler
+	post /stock/deduct(DeductRequest) returns (DeductResponse)
+	
+	@handler CancelStockDeductHandler
+	post /stock/cancelDeduct(DeductRequest) returns (DeductResponse)
+}

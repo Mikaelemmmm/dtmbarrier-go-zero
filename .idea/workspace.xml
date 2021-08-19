@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827b1922-cc92-4987-bb65-10003997d530" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.16/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wtGzCKPxQVAOud8Bgn1OxOVF55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/sql" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dtmzero" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/stock/model" />
+      <recent name="$PROJECT_DIR$/order/model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/sql" />
+      <recent name="$PROJECT_DIR$/dtmzero" />
+      <recent name="$PROJECT_DIR$/order/model" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/stock/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build stock.go">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="go build order.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="fbstrans" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/order/order.go" />
+      <package value="fbstrans" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build stock.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="fbstrans" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stock/stock.go" />
+      <package value="fbstrans" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build stock.go" />
+        <item itemvalue="Go Build.go build order.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827b1922-cc92-4987-bb65-10003997d530" name="Default Changelist" comment="" />
+      <created>1629270732592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629270732592</updated>
+      <workItem from="1629270733912" duration="205000" />
+      <workItem from="1629270950298" duration="30325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="159" key="GridCell.Tab.0.bottom" timestamp="1629356620811">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620811" />
+    <state width="1638" height="159" key="GridCell.Tab.0.center" timestamp="1629356620810">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620810" />
+    <state width="1638" height="159" key="GridCell.Tab.0.left" timestamp="1629356620810">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620810" />
+    <state width="1638" height="159" key="GridCell.Tab.0.right" timestamp="1629356620811">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620811" />
+    <state width="1638" height="159" key="GridCell.Tab.1.bottom" timestamp="1629356620812">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620812" />
+    <state width="1638" height="159" key="GridCell.Tab.1.center" timestamp="1629356620811">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620811" />
+    <state width="1638" height="159" key="GridCell.Tab.1.left" timestamp="1629356620811">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620811" />
+    <state width="1638" height="159" key="GridCell.Tab.1.right" timestamp="1629356620812">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="159" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1629356620812" />
+    <state x="541" y="263" width="597" height="548" key="find.popup" timestamp="1629346277176">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="541" y="263" width="597" height="548" key="find.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1629346277176" />
+    <state x="570" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1629344486541">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="570" y="453" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1629344486541" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+Name: order-api
+Host: 0.0.0.0
+Port: 8001
+
+DataSource: root:@tcp(127.0.0.1:3306)/dtmone?charset=utf8mb4&parseTime=True&loc=Local
+
+BarrierDataSource: root:@tcp(127.0.0.1:3306)/dtm_barrier?charset=utf8mb4&parseTime=True&loc=Local
